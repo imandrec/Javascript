@@ -69,3 +69,8 @@
 
 //var firstName = "Andrea";
 //var lastLetter = firstName[firstName.length - 1];
+
+//function worldBlanks(myNoun, myVerb){
+//var result="";
+//result += "The" + myNoum + myVerb
+//return result;
